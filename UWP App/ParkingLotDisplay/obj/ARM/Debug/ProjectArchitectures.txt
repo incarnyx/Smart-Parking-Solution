@@ -1,0 +1,1 @@
+C:\Users\t-sogupt\Desktop\SmartParking\UWP App\ParkingLotDisplay\ParkingLotDisplay.csproj;arm

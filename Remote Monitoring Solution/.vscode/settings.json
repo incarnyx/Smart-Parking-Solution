@@ -1,0 +1,5 @@
+{
+    "git.ignoreLimitWarning": true,
+    "appService.defaultWebAppToDeploy": "/subscriptions/1edd456a-58fe-4621-93ac-c54380b6b710/resourceGroups/LocalRM/providers/Microsoft.Web/sites/smartparkingwebapp",
+    "appService.deploySubpath": ""
+}
