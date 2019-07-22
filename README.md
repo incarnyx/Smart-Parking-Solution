@@ -56,5 +56,5 @@ Please make sure to update tests as appropriate.
 This is not a production level solution but a proof of concept. All licenses used were strictly for development.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md]() file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/incarnyx/Smart-Parking-Solution/blob/master/LICENSE) file for details.
 
