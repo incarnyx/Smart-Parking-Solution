@@ -2,7 +2,7 @@
 Smart parking is a parking strategy that combines technology and  human innovation in an effort to use as few resources as possible—such as fuel, time and space—to achieve faster, easier and denser parking of vehicles for the majority of time they remain idle.
 
 ## Description
-This is a smart parking solution based on a pre-configured Azure remote monitoring solution. Click [HERE](https://docs.microsoft.com/en-us/azure/iot-accelerators/iot-accelerators-remote-monitoring-sample-walkthrough) for the documentation and walkthrough. A UWP app has been developed to mimic the parking lot situation and a chatbot has been deployed to allow ease of access for the users to check-in to a parking slot.
+This is a smart parking solution based on a pre-configured Azure remote monitoring solution. Click [HERE](https://docs.microsoft.com/en-us/azure/iot-accelerators/iot-accelerators-remote-monitoring-sample-walkthrough) for the documentation and walkthrough. A UWP app has been developed to mimic the parking lot situation and a chatbot has been deployed to allow ease of access for the users to check-in to a parking slot. The backend architecture combines both cloud and edge computing to eventually build a serverless solution.
 
 ## Pre-requisites
 [Azure](https://azure.microsoft.com/en-in/) - An active Azure subscription in which you are the admin
